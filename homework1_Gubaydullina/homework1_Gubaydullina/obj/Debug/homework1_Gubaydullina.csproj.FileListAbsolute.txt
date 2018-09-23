@@ -1,0 +1,6 @@
+C:\Users\karin\Desktop\homework1_Gubaydullina\homework1_Gubaydullina\bin\Debug\homework1_Gubaydullina.exe.config
+C:\Users\karin\Desktop\homework1_Gubaydullina\homework1_Gubaydullina\bin\Debug\homework1_Gubaydullina.exe
+C:\Users\karin\Desktop\homework1_Gubaydullina\homework1_Gubaydullina\bin\Debug\homework1_Gubaydullina.pdb
+C:\Users\karin\Desktop\homework1_Gubaydullina\homework1_Gubaydullina\obj\Debug\homework1_Gubaydullina.csprojResolveAssemblyReference.cache
+C:\Users\karin\Desktop\homework1_Gubaydullina\homework1_Gubaydullina\obj\Debug\homework1_Gubaydullina.exe
+C:\Users\karin\Desktop\homework1_Gubaydullina\homework1_Gubaydullina\obj\Debug\homework1_Gubaydullina.pdb
