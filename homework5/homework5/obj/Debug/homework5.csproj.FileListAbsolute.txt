@@ -1,0 +1,6 @@
+C:\Users\karin\Desktop\C#_1\homework5\homework5\bin\Debug\homework5.exe.config
+C:\Users\karin\Desktop\C#_1\homework5\homework5\obj\Debug\homework5.csprojResolveAssemblyReference.cache
+C:\Users\karin\Desktop\C#_1\homework5\homework5\bin\Debug\homework5.exe
+C:\Users\karin\Desktop\C#_1\homework5\homework5\bin\Debug\homework5.pdb
+C:\Users\karin\Desktop\C#_1\homework5\homework5\obj\Debug\homework5.exe
+C:\Users\karin\Desktop\C#_1\homework5\homework5\obj\Debug\homework5.pdb
